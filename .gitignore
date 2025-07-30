@@ -1,0 +1,10 @@
+node_modules/
+npm-debug.log
+.env
+
+
+client/dist/
+
+
+*.env
+docker-compose.override.yml
